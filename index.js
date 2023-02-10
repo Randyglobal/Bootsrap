@@ -1,0 +1,1 @@
+maoboxgl.accessToken = 'pk.'
